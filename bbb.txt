@@ -1,4 +1,7 @@
 test1
 hekoun1
+<<<<<<< HEAD
 henkou2
 henkou3
+=======
+>>>>>>> parent of 56f5e54... commit2
